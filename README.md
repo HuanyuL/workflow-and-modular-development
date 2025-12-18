@@ -1,4 +1,4 @@
-# Team Collabrative Workflow and Modular System Development Guide
+# Team Collaborative Workflow and Modular System Development Guide
 
 Author: [Huanyu Li](https://github.com/HuanyuL)
 
@@ -18,9 +18,9 @@ This is the repository for **MRAC01 25/26 workshop 2.1**. The seminar focuses on
 ## Getting Started
 ### Prerequisites
 Before starting, you must have:
-- **A Windows 11 or Linux laptop** (reserve at lease 60GB free pace in your "C" Disk)
+- **A Windows 11 or Linux laptop** (reserve at least 60GB free space in your "C" Disk)
 - **Github account**
-- **Python installed**(basic knowlege required)
+- **Python installed**(basic knowledge required)
 - **VSCode**
 
 You should understand:
