@@ -60,10 +60,10 @@ All the materials are orgnized by day. Each folder contains:
 
 You can jump to the worksop material from the following links:
 - [Day 1: Introduction & Setup](workshop-materials/DAY1/README.md)
-- [Day 2: Introduction & Setup](workshop-materials/DAY2/README.md)
-- [Day 3: Introduction & Setup](workshop-materials/DAY3/README.md)
-- [Day 4: Introduction & Setup](workshop-materials/DAY4/README.md)
-- [Day 5: Introduction & Setup](workshop-materials/DAY5/README.md)
+- [Day 2: Github Collabrative Workflow & WSL Basic](workshop-materials/DAY2/README.md)
+- [Day 3: Environments, Docker & Advanced Python](workshop-materials/DAY3/README.md)
+- [Day 4: Robotic Kinematics & Perception Systems](workshop-materials/DAY4/README.md)
+- [Day 5: ROS 2 Tour & Motion Planning with MoveIt](workshop-materials/DAY5/README.md)
 
 ## Troubleshooting
 
